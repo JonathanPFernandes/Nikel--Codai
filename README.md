@@ -1,4 +1,3 @@
-# Nikel--Codai
+# Nikel
 
-
-Este é um repositório de exemplo para o projeto Codai.
+Este é um repositorio de exemplo para o projeto Codai.

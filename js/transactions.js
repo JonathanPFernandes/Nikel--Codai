@@ -1,6 +1,6 @@
 const myModal = new bootstrap.Modal("#transaction-modal");
 let logged = sessionStorage.getItem("logged");
-const session = sessionStorage.getItem("session");
+const session = localStorage.getItem("session");
 let data = {
     transactions: []
 }
